@@ -21,3 +21,10 @@ Visuals and icons sourced from freepik.com
 A big shoutout to my mentors Hemanand Vadivel and Dhaval Patel from Codebasics for their invaluable guidance. More exciting projects are on the way—stay tuned!
 
 hashtag#DataAnalytics hashtag#PowerBI hashtag#BusinessIntelligence hashtag#Forecasting hashtag#DataVisualization hashtag#MySQL hashtag#DAX hashtag#GrowthMatrix hashtag#Codebasics
+
+
+Key Features
+Profit & Loss Statement Analysis:
+
+A detailed Profit & Loss (P&L) statement that includes key line items such as Gross Sales, Deductions, Cost of Goods Sold (COGS), Gross Margin, and Net Profit.
+Year-over-Year (YoY) Changes are computed using DAX to provide insights into performance trends.
